@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Proj1Blog/server"
+		},
+		{
+			"path": "../../auth"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
